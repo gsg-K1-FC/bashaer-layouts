@@ -18,16 +18,9 @@
 .city2 {
     float: left;
     margin-left: 25px;
-    
-
 }
 .city3 {
     float: right;
-    margin-left: 590px;
-    
-    
-    
-    position: absolute;
-    
-    
+    margin-left: 590px; 
+    position: absolute;    
 }
